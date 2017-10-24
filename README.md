@@ -1,2 +1,2 @@
 # office_messenger
-A phone messaging system for use on an internal office network.
+A server/client based phone messaging system for use on an internal office network. 
